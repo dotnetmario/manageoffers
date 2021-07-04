@@ -17,5 +17,5 @@ evec votre valeure
 - npm run dev
 - php artisan serve
 
-navigez ver le lien:
+navigez ver le lien pour acceder a l'application:
 localhost:8000
